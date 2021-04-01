@@ -1,0 +1,15 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "slack messaging bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "seongwou",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/events-api": "^3.0.0",
+    "@slack/web-api": "^6.1.0"
+  }
+}
