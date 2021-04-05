@@ -25,5 +25,13 @@ export default async function (req) {
       }
     })
 
-  return res
+  return res.ok
+    ? {
+        resultCode: '200',
+        resultMessage: 'Okay',
+      }
+    : {
+        resultCode: '500',
+        resultMessage: `Sending message fail`,
+      }
 }
