@@ -10,4 +10,6 @@
 
 ## Run
 
+- create .env file and set variable (PORT, SLACK_TOKEN)  
+
 - npm run start
