@@ -1,9 +1,13 @@
 # slack messaging bot
 
-## install node
+## Required
 
-- <https://nodejs.org/ko/download/>  
+- install node <https://nodejs.org/ko/download/>  
 
-## npm install  
+## Build
 
-## npm run start  
+- npm install
+
+## Run
+
+- npm run start
