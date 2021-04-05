@@ -1,4 +1,4 @@
-# slack messaging bot
+# Slack messaging bot
 
 ## Required
 
