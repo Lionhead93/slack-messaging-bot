@@ -3,6 +3,7 @@
 ## Required
 
 - install node <https://nodejs.org/ko/download/>  
+- create slack channel and add bot
 
 ## Build
 
