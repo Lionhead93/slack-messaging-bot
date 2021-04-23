@@ -9,7 +9,6 @@ const token = process.env.SLACK_TOKEN
 const web = new WebClient(token)
 
 export default async function (req) {
-  console.log(token)
   const conversationId = req.conversationId
   const message = req.message
 
